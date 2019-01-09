@@ -1,0 +1,18 @@
+html {
+  text-align: center;
+}
+
+h2.intro {
+  color: blue;
+}
+
+p.intro {
+   color: green;
+   font-style: italic;
+   font-size: 25px;
+ }
+
+img.intro {
+  height: 100%;
+  width: 20%;
+}
