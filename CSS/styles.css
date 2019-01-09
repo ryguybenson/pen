@@ -2,17 +2,21 @@ html {
   text-align: center;
 }
 
-h2.intro {
+.intro h2 {
   color: blue;
 }
 
-p.intro {
+.intro p {
    color: green;
    font-style: italic;
    font-size: 25px;
  }
 
-img.intro {
+.intro img {
   height: 100%;
   width: 20%;
+}
+
+.intro {
+
 }
